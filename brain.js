@@ -9,3 +9,11 @@ console.log(multiply(6, 8));
 
 let divide = (a, b) => a / b;
 console.log(divide(12, 3));
+
+let firstNumber;
+let operator;
+let secondNumber;
+
+function operate(firstNumber, operator, secondNumber) {
+    add(firstNumber, secondNumber);
+}

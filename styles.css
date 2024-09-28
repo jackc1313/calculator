@@ -1,0 +1,11 @@
+#display {
+    display: block;
+    text-align: center;
+    height: 20px;
+    width: 70px;
+    margin: 10px;
+    border-style: groove;
+    border-radius: 5px;
+    border-color: darkblue;
+    background-color: rgb(180, 213, 113);
+}
