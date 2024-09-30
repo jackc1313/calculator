@@ -1,8 +1,9 @@
 #display {
     display: block;
     text-align: center;
-    height: 20px;
-    width: 70px;
+    font-size: 20px;
+    min-height: 20px;
+    padding: 5px;
     margin: 10px;
     border-style: groove;
     border-radius: 5px;
